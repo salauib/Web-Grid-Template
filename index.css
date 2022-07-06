@@ -1,0 +1,186 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blue;
+}
+
+.nav {
+    width: 1200px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+    display: flex;
+}
+
+.logo {
+    text-align: center;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    background-color: brown;
+    margin-right: 2px;
+    padding-top: 15px;
+}
+
+.nav-div {
+    text-align: center;
+    color: #fff;
+    width: 900px;
+    height: 50px;
+    background-color: brown;
+    margin-left: 5px;
+    padding-top: 15px;
+}
+
+.container1 {
+    text-align: center;
+    width: 1200px;
+    height: 345px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: grey;
+    display: flex;
+}
+
+.a1,
+.a2,
+.a3,
+.a4 {
+    text-align: center;
+    color: #fff;
+    background-color: red;
+    width: 296.25px;
+    height: 250px;
+    margin-bottom: 15px;
+    padding-top: 120px;
+}
+
+.b1,
+.b2,
+.b3,
+.b4 {
+    text-align: center;
+    color: #fff;
+    background-color: brown;
+    width: 296.25px;
+    height: 80px;
+    padding-top: 30px;
+}
+
+.a1 {
+    margin-right: 5px;
+}
+
+.a2 {
+    margin-right: 5px;
+}
+
+.a3 {
+    margin-right: 5px;
+}
+
+.b1 {
+    margin-right: 5px;
+}
+
+.b2 {
+    margin-right: 5px;
+}
+
+.b3 {
+    margin-right: 5px;
+}
+
+.container2 {
+    text-align: center;
+    width: 1200px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: grey;
+    display: flex;
+}
+
+.c1,
+.c2,
+.c3,
+.c4 {
+    color: #fff;
+    background-color: brown;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+}
+
+.c1 {
+    margin-right: 5px;
+}
+
+.c2 {
+    margin-right: 5px;
+}
+
+.c3 {
+    margin-right: 5px;
+}
+
+.container3 {
+    text-align: center;
+    width: 1200px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: grey;
+    display: flex;
+}
+
+.d1,
+.d2,
+.d3,
+.d4 {
+    color: #fff;
+    background-color: brown;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 6px;
+}
+
+.d1 {
+    margin-right: 5px;
+}
+
+.d2 {
+    margin-right: 5px;
+}
+
+.d3 {
+    margin-right: 5px;
+}
+
+.footer {
+    color: #fff;
+    background-color: brown;
+    width: 1200px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+}
